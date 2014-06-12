@@ -1,4 +1,4 @@
 openface
 ========
 
-Open Source Facial Animation
+Open Source Facial Tracking and Animation Toolkit
